@@ -103,6 +103,20 @@ h1,
   background-color: var(--button-hover);
 }
 
+#cart {
+  margin: 0 0.5rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin: 1.5rem auto;
+}
+
+.attribution a {
+  color: var(--button-bg-color);
+}
+
 @media screen and (min-width: 650px) {
   #mobile-img{
     display: none;
